@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.5.1'
+gem 'rails', '4.2.10'
 
 gem 'mysql2'
 
@@ -54,4 +54,3 @@ group :test do
   gem 'rspec-rails', '~> 3.4.2'
   gem 'shoulda-matchers', '~> 3.1'
 end
-
