@@ -52,5 +52,5 @@ end
 
 group :test do
   gem 'rspec-rails', '~> 3.4.2'
-  gem 'shoulda-matchers', '~> 3.1'
+  gem 'shoulda-matchers', '~> 4.5'
 end
